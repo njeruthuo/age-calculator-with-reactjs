@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHUB](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [GitHUB](https://github.com/njeruthuo/age-calculator-with-reactjs)
+- Live Site URL: [Vercel](https://age-calculator-with-reactjs.vercel.app/)
 
 
 ### Built with
